@@ -1,0 +1,11 @@
+site_name: Mkdocs - GitBook Theme
+
+theme:
+  name: gitbook
+
+nav:
+  - Home: index.md
+
+plugins: []
+
+repo_url: https://gitlab.com/lramage94/mkdocs-gitbook-theme

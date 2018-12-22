@@ -1,0 +1,16 @@
+image: python:alpine
+
+before_script:
+  - apk update && apk add make
+  - pip install -r requirements.txt
+
+pages:
+  script:
+    - python setup.py install
+    - mkdocs build
+    - mv site public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
