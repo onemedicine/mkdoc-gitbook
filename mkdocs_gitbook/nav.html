@@ -2,7 +2,7 @@
 <ul class="summary">
 {%- block site_name %}
 <li>
-<a href="{{ nav.homepage.url }}" target="_blank" class="custom-link">{{ config.site_name }}</a>
+<a href="{{ nav.homepage.url | url }}" target="_blank" class="custom-link">{{ config.site_name }}</a>
 </li>
 {%- endblock %}
 <li class="divider"></li>
