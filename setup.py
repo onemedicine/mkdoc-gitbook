@@ -5,7 +5,7 @@ VERSION = '0.0.1'
 setup(
     name="mkdocs-gitbook",
     version=VERSION,
-    url='https://gitlab.com/lramage94/mkdocs-gitbook-theme',
+    url='https://gitlab.com/lramage/mkdocs-gitbook-theme',
     license='Apache License, Version 2.0',
     description='Default theme for GitBook for Mkdocs',
     author='Lucas Ramage',
