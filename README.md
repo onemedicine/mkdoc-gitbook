@@ -18,6 +18,19 @@ theme:
   name: gitbook
 ```
 
+## Motivation
+
+Gitbook was a static-site generator written in JavaScript.
+
+Mkdocs is a static-site generator written in Python.
+
+**Gitbook is [no longer a static-site generator][1], [nor does it use git][2], nor is it [free][3] or [open source][4]!**
+
+[1]: https://docs.gitbook.com/v2-changes/important-differences#cli-toolchain
+[2]: https://docs.gitbook.com/v2-changes/important-differences#git-hosting-and-integration
+[3]: https://www.gnu.org/philosophy/free-sw.html
+[4]: https://opensource.org/osd
+
 [apache-badge]: http://img.shields.io/badge/license-apache-blue.svg?style=flat-square
 [pypi-badge]: https://img.shields.io/pypi/v/mkdocs-gitbook.svg?style=flat-square
 [pypi-ref]: https://pypi.python.org/pypi/mkdocs-gitbook
