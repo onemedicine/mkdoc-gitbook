@@ -38,3 +38,7 @@ Mkdocs is a static-site generator written in Python.
 ## Screenshot
 
 <a href="https://gitlab.com/lramage/mkdocs-gitbook-theme"><img src="img/screenshot.png" alt="Default theme for GitBook for Mkdocs"></a>
+
+## License
+
+SPDX-License-Identifier: [MIT](https://spdx.org/licenses/MIT)
