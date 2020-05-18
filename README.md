@@ -31,7 +31,7 @@ Mkdocs is a static-site generator written in Python.
 [3]: https://www.gnu.org/philosophy/free-sw.html
 [4]: https://opensource.org/osd
 
-[apache-badge]: https://img.shields.io/badge/license-apache-blue.svg?style=flat-square
+[apache-badge]: https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square
 [pypi-badge]: https://img.shields.io/pypi/v/mkdocs-gitbook.svg?style=flat-square
 [pypi-ref]: https://pypi.python.org/pypi/mkdocs-gitbook
 
