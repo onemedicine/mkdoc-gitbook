@@ -4,7 +4,9 @@
  * The above is the entire license notice for the JavaScript code in this page.
  *
  */
- 
+
+var base_url = ".";
+
 var gitbook = gitbook || [];
 gitbook.push(function() {
     gitbook.page.hasChanged({

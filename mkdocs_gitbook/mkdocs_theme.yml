@@ -2,5 +2,9 @@
 
 static_templates: []
 
+
+include_search_page: false
+search_index_only: false
+
 # Version number for gitbook-theme
 version: 1.0.7

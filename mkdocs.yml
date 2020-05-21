@@ -6,6 +6,6 @@ theme:
 nav:
   - Home: index.md
 
-plugins: []
+plugins: ["search"]
 
 repo_url: https://gitlab.com/lramage/mkdocs-gitbook-theme
