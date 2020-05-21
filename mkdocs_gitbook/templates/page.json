@@ -1,0 +1,58 @@
+{
+  "page": {
+    "title": "{% if page and page.title %}{{ page.title }}{% endif %}",
+    "level": "1",
+    "depth": 1,
+    "next": {
+      "title": "",
+      "level": "1",
+      "depth": 1,
+      "path": "",
+      "ref": "",
+      "articles": []
+    },
+    "previous": {
+      "title": "",
+      "level": "1",
+      "depth": 1,
+      "path": "",
+      "ref": "",
+      "articles": []
+    },
+    "dir": "ltr"
+  },
+  "config": {
+    "plugins": [],
+    "styles": {},
+    "pluginsConfig": {},
+    {% if config.extra.github %}
+    "github": "{{ config.extra.github }}",
+    {% endif %}
+    {% if config.extra.gitlab %}
+    "gitlab": "{{ config.extra.gitlab }}",
+    {% endif %}
+    "theme": "default",
+    "author": "{{ config.site_author }}",
+    "pdf": {},
+    "structure": {},
+    "variables": {},
+    "title": "{{ config.site_name }}",
+    "language": "en",
+    "links": {},
+    "gitbook": "*",
+    "description": "{{ config.site_description }}"
+  },
+  "file": {
+    "path": "",
+    "mtime": "",
+    "type": "markdown"
+  },
+  "gitbook": {
+    "version": "3.2.3",
+    "time": "2018-06-16T01:44:55.224Z"
+  },
+  "basePath": ".",
+  "book": {
+    "language": "en"
+  }
+}

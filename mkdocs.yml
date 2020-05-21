@@ -1,4 +1,5 @@
 site_name: Mkdocs - GitBook Theme
+site_author: Lucas Ramage
 
 theme:
   name: gitbook

@@ -15,6 +15,9 @@ setup(
     entry_points={
         'mkdocs.themes': [
             'gitbook = mkdocs_gitbook',
+        ],
+        'mkdocs.plugins': [
+            'gitbook = mkdocs_gitbook:GitBookPlugin',
         ]
     },
     zip_safe=False
