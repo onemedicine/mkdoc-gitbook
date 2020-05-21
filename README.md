@@ -42,3 +42,4 @@ Mkdocs is a static-site generator written in Python.
 ## License
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+
