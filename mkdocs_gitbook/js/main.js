@@ -17,7 +17,7 @@ gitbook.push(function() {
         },
         "basePath": ".",
         "book": {
-            "language": ""
+            "language": "en"
         }
     });
 });
